@@ -1,0 +1,4 @@
+Scripts to run server and client:
+
+1.  json-server --watch public/db.json  (localhost:3000)
+2.  npm start   (localhost:3001)
