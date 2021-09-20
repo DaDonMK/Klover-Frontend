@@ -42,7 +42,6 @@ function Audiences(props) {
         getDB()
         console.log('mount')
         setPage(1)
-
     }, [search])
 
   const getDB = () => {
